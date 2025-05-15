@@ -4,7 +4,7 @@ import Woman2Icon from '@mui/icons-material/Woman2';
 
 export const defaultLogo = './logos/logo_atomic_crm.svg';
 
-export const defaultTitle = 'Atomic CRM';
+export const defaultTitle = 'Auro CRM';
 
 export const defaultCompanySectors = [
     'Communication Services',
@@ -60,6 +60,5 @@ export const defaultTaskTypes = [
 
 export const defaultContactGender = [
     { value: 'male', label: 'He/Him', icon: Man2Icon },
-    { value: 'female', label: 'She/Her', icon: Woman2Icon },
-    { value: 'nonbinary', label: 'They/Them', icon: WcIcon },
+    { value: 'female', label: 'She/Her', icon: Woman2Icon }
 ];
